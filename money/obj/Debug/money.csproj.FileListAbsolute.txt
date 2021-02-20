@@ -1,0 +1,10 @@
+C:\Users\Nikita\source\repos\laba4\money\bin\Debug\money.exe.config
+C:\Users\Nikita\source\repos\laba4\money\bin\Debug\money.exe
+C:\Users\Nikita\source\repos\laba4\money\bin\Debug\money.pdb
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.Form1.resources
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.Properties.Resources.resources
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.exe
+C:\Users\Nikita\source\repos\laba4\money\obj\Debug\money.pdb
